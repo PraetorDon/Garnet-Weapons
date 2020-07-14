@@ -134,7 +134,7 @@ SWEP.Primary.DefaultClip	= 10
 SWEP.Primary.Automatic		= false
 SWEP.Primary.Ammo			= "7.62x54MMR"
 
-SWEP.FireDelay = 60/120
+SWEP.FireDelay = 60/50
 SWEP.FireSound = "SVT.Fire"
 SWEP.FireSoundSuppressed = "SVT.SupFire"
 SWEP.Recoil = 2
@@ -146,7 +146,7 @@ SWEP.MaxSpreadInc = 0.070
 SWEP.SpreadPerShot = 0.01
 SWEP.SpreadCooldown = 0.3
 SWEP.Shots = 1
-SWEP.Damage = 80
+SWEP.Damage = 100
 SWEP.DeployTime = 1.5
 
 SWEP.ReloadSpeed = 1
